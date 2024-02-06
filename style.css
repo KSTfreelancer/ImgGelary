@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.contaner{
+    max-width: 85%;
+    margin: 10px auto;
+}
+.contaner h1{
+    font-size: 32px;
+    font-weight: 400;
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 15px;
+    margin-bottom: 10px;
+}
+.contaner .imag-contaner{
+    columns: 3 250px;
+    column-gap: 15px;
+}
+.contaner .imag-contaner img{
+    margin-bottom: 10px;
+    border-radius: 5px;
+    width: 100%;
+    
+}
